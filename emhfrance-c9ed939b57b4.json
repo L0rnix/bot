@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "emhfrance",
+  "private_key_id": "c9ed939b57b4dc50dac3b8289f102579489f7d41",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCYAp9LIa0jNSZd\nEnjyfrKgGSqZjgd56Q227XlCTxyGKWh06gl9EakpoTJXUZdR9+pNwvZfc4NuHLg/\nrApLx/T4vyIYugeX85S/hGfMPFwhdolaXoLRWB2hocNhhjKqw7QQYI+mXYFsr1iy\ncGdPdhcGkeEDPET4D6mtfkxUYGB+1QdePNIKZl4o9cxtmlrXtvdeyNdMMiMK5cmG\nfB9LVMfw9g7INDWlg3jMs+JJDyJ8ryTbe1fuaJBpj1B63H9jIM6+TpJS3dHiN+sg\nJxTbFIKR/gJNDTdR4WXJQ6TyryCj7vXmeziPgYpUT1tZ8Fi785o8c+0/NiPPgQH3\nh5WNWqlbAgMBAAECggEAJXroCd9Y0EiHmAU4+xmQM3dhEJF7eGylLAhrkJTvBIlr\nLwCRrFvRaOlM/0in1dcZ12iN1MUnj9vW9iQWOc8osLh30L71plqxv3MHIM11Le8L\nONP6z2E5lSPMh9xN29r7J9qXML73bXPim8SpRGdqj/0iDOksXDmIbbWpXliRElRU\n+2wNGcAMPZ94HbdymyeoxO+nxCZ6Jf88GZLn/NM+QxeLn5NxqxofKFDGNCw07uj8\nbZk1KHZF9GYayUGNYADzNTM/mkr8VZOujK8nh6Y8lIKkMkfA2m6A0hBlIJgNoos8\n7LbpzaqG0738oHnnafADENUIjCeVNem72aVkpplmuQKBgQDJLcVN9i8diq78oxH6\nXOkXFBWe8iu1xQzBPBOkdUApTv+khI2zTqAnRjD1mGv/m/zO/B/RysRmXYoCsxuj\nRPxr0eD+AuHYjDUu0hDYyPMQzT33FVrsA7aAEfQlHFpELnaHL55Wt7o4aXpgHaUS\nXPYtIg0CoMwSdtTCLoEJ9mqvDQKBgQDBbtq2uxVNTCtQKRaK/dmFiUFxi+C3gOsr\nq438ctK+sVU4tPCFkAkRMpw7ljigAB0b5TF/XSSX436XcUd+7EfKjCE0mVN2Z3P9\n93bjAcz33TEVzTgpZjoN/qVtKLXAK6FYrZTmtpVMFT7V5zH53qyc+1lZZyM2ylQK\noJ+IPzdgBwKBgCSJ4p8BSpdj+9o4x+gf/dnKNQ8UTuoJqwJhpfOltAyMo5O+23mo\nmx/m+LdygpL/QtBZLHJPEJLDBHDvFOL3gZ0XlnSsE1bgSDyDvLmS7cqsbEe3Ijdh\niUEDgcNHvgFKKw7skCaR4gmi5q4UVEnchn22BITorYfg+011Ysxra/71AoGBAKb5\nBhtOiyjaY1ki3q7ESgyXWsKlOCmvQ1HDGSGeDIVHloUIy8a/etQ5l9tn5SFYd8go\no/2JbZkfa5tW0ZyiYaZaKB+7aux+iQXlo955I3GiokhridtSvzJtamc8CQgFoZVm\n4W32lhHDFSaYF+/VY7Nu1MXz3dXh+YHi/VMjHq3pAoGBAIVQP+WGLDih2xbQZYji\nAtj/N5vj4D66BEObpY4w+Ny4+JTOQAjwoMGXL1oiJq1WYGhV2vxTuxUZr2gxsVva\n8m76oPOlV3AHabgSZ1/0Iy53CpNKaYQ6vkkZQdwlGvWmqRIHIAj2y8I/EcJvluKw\nmnHFCxDg/0xKA7HZ4nFm0gRc\n-----END PRIVATE KEY-----\n",
+  "client_email": "discordd@emhfrance.iam.gserviceaccount.com",
+  "client_id": "112126665885947240912",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/discordd%40emhfrance.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
